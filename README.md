@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-**Check out the demo here:**
+**Check out the demo here:** [Demo](https://bugsbunny5290.github.io/jsAuthApp/)
 
 
 
