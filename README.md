@@ -17,13 +17,10 @@ Once you register, you are greeted with a flash message (using connect-flash) th
 
 To install:
 
-```javascript
-git clone https://github.com/bugsbunny5290/jsAuthApp.git
-npm install
-npm run dev
-```
-
-**Check out the demo here:** [Demo](https://bugsbunny5290.github.io/jsAuthApp/)
++ Clone this repo: `git clone https://github.com/bugsbunny5290/jsAuthApp.git`
++ Install dependencies using [npm](https://www.npmjs.com/) javascript package manager: `npm install`
++ Start node server using [nodemon](https://nodemon.io/): `npm run dev`
++ Tune to url: `http://localhost:5000`
 
 
 
