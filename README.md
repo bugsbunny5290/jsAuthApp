@@ -1,4 +1,4 @@
-#Authentication sample application
+## Authentication sample application
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -27,7 +27,7 @@ npm run dev
 
 
 
-##Technologies and packages
+## Technologies and packages
 * Javascript
 * Express
     + express-session
