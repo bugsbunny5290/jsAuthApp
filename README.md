@@ -18,7 +18,7 @@ Once you register, you are greeted with a flash message (using connect-flash) th
 To install:
 
 ```javascript
-git clone: 
+git clone: https://github.com/bugsbunny5290/jsAuthApp.git
 npm install
 npm run dev
 ```
